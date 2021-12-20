@@ -1,4 +1,4 @@
-👋 Hello, my name is Xiao! I am a data scientist with experience in clinical research and project management :D
+👋  Hello, my name is Xiao! I am a data scientist with experience in clinical research and project management 😄
 
 How to reach me: 
 -  Email: xsong0306@gmail.com
