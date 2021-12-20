@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Xiao :D
-- 👀 I’m interested in coding and baking~
-- 🌱 I’m currently attending Lambda School, Data Science track
-- 💞️ I’m looking to network with professionals in the field
-- 📫 How to reach me: xsong0306@gmail.com
+- 👋 Hello, I’m Xiao :D I am a data scientist with experience in clinical research and project management.
+
+- How to reach me: 
+  -  Email: xsong0306@gmail.com
+  -  LinkedIn: https://www.linkedin.com/in/xsong0306/
 
 <!---
 xsong0306/xsong0306 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
